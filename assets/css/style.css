@@ -1569,3 +1569,11 @@ section {
 .sidebar-menu .btn[aria-expanded="true"] i {
   transform: rotate(90deg);
 }
+
+.inner-page-hero {
+  height: 40vh !important;
+}
+
+.inner-page-hero .container {
+  padding-top: 140px !important;
+}
